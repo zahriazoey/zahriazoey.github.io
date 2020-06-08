@@ -1,0 +1,47 @@
+#skills {
+    align-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#skills li {
+    padding: 10px 25px;
+
+}
+
+#footerIcons{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.btnone {
+    width: 15%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.contact {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.resume {
+    padding: 5px;
+}
